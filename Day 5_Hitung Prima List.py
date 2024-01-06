@@ -1,4 +1,4 @@
-a = range(1,10)
+a = range(10,20)
 print('Deretan bilangan = ',list(a))
 print('='*5)
 
